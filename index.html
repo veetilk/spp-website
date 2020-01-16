@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="posts">
+  {% for post in site.posts reversed %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      {% if post.content contains site.excerpt_separator %}
+        <div class="entry">
+          {{ post.excerpt }}
+        </div>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      {% else %}
+        <div class="entry">
+          {{ post.content }}
+        </div>
+      {% endif %}
+    </article>
+  {% endfor %}
+</div>
