@@ -1,0 +1,5 @@
+1. Changed "Publications" into "Recent Activities"
+
+2. Updated "Recent Activities" according to the Christian notes (16 Jan 2019)
+
+3. Added "Upcoming events"
