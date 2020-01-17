@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Presentations at the Networking Meeting
+categories: [recent]
 ---
 
 The presentations of the network meeting in Mainz on 11th of July, 2017, are now available for download.

@@ -1,25 +1,13 @@
 ---
-layout: page
-title: Upcoming events
-permalink: /events/
+layout: post
+title: Retreat Meeting
+categories: [upcoming]
 ---
-
-### International Conference
-#### 4 - 6 November 2020
-
-An International Conference on Skyrmionics organized by the DFG priority program SPP2137 will held between 4. & 6. November 2020. The Conference will take place at "Kloster Seeon" (-> link Seeon). The planned program comprises invited and contributed talks as well as a poster session on recent scientific progress in the field. Further information will be available soon.
-
-
-### Autumn School on Skyrmionics
-#### 2 & 3 November 2020
-
-An autumn school of the DFG priority program SPP2137 (Skyrmionics) will held on 2. & 3. November 2020. The school will take place at "Kloster Seeon" (-> Link Seeon). The planned program comprises tutorial lectures on various areas of research on skyrmions in magnetic materials. Further information will be available soon.
-
-
-### Retreat Meeting
 #### 26 & 27 March 2020
 
 A Retreat Meeting of the DFG priority program SPP2137 (Skyrmionics) will be held on 26 & 27 March 2020. The retreat meeting will take place at the Physik-Zentrum in Bad Honnef. It is expected that the program will start around 10am on 26 March and that it will finish after lunch on 27 March. Arrival is possible on the evening of 25 March.  An outline of the anticipated program may be found [here]({{ site.url }}/assets/PrelimProgram-SPP2137-retreat.pdf).
+
+<!--more-->
 
 To encourage an exchange of experience and ideas on a broader scale, all groups interested in the activities of the priority program are invited to participate, regardless if they receive funding through the priority program.
 

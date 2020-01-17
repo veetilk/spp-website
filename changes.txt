@@ -1,5 +1,23 @@
-1. Changed "Publications" into "Recent Activities"
+1. Changed "Publications" into "Recent events"
 
-2. Updated "Recent Activities" according to the Christian notes (16 Jan 2019)
+2. Updated "Recent events" according to the Christian notes (text)
 
 3. Added "Upcoming events"
+
+4. in the css style changed page width from 740px to 800 px
+
+5. Updated "Projects" according to the GEPRIS website
+
+6. Updated "Members" according to the GEPRIS website
+
+7. Updated "About" according to the Christian notes (written)
+
+8. Moved the post section to the "Recent events", and reversed the order.
+
+9. Introduced categories to the post: "recent" and "upcoming"
+
+10. Removed the links to the posts in their Header (was <h1><a href="{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a></h1> now <h1>{{ event.title }}</h1>)
+
+11. Sorted "Projects" and "Members" in the alphabetical order
+
+12. Changed the css default text alignment to "justify"
