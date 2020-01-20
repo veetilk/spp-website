@@ -19,4 +19,4 @@ indicating also whether they intend to present a poster.
 
 For further details on the location and program please visit the workshop homepage at [https://www.spice.uni-mainz.de/spp-skyrmions-nwmeeting/](https://www.spice.uni-mainz.de/spp-skyrmions-nwmeeting/).
 
-To download the program click [here]({{ site.url }}/assets/20170602_SPP2137_Vernetzungstreffen.pdf)
+To download the program click [here]({{ site.baseurl }}/assets/20170602_SPP2137_Vernetzungstreffen.pdf)
