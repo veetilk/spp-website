@@ -1,6 +1,6 @@
 ---
 layout: post
-title: International Conference
+title: International Conference 2020
 categories: [upcoming]
 ---
 

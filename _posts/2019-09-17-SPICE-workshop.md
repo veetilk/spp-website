@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Young Researchers Workshop
+title: Young Researchers Workshop 2019
 categories: [recent]
 ---
 

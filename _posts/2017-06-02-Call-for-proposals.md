@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Call for Proposals
+title: Call for Proposals 2017
 categories: [recent]
 ---
 

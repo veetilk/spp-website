@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Retreat Meeting
+title: Retreat Meeting 2020
 categories: [upcoming]
 ---
 #### 26 & 27 March 2020

@@ -7,7 +7,7 @@ permalink: /upcoming/
 <div class="events">
   {% for category in site.categories %}
     {% if category[0] == "upcoming" %}
-      {% for event in category[1] %}
+      {% for event in category[1] reversed %}
         <article class="event">
           <h1>{{ event.title }}</h1>
           {% if event.content contains site.excerpt_separator %}

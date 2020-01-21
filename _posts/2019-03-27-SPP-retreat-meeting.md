@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Retreat Meeting
+title: Retreat Meeting 2019
 categories: [recent]
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Autumn School on Skyrmionics
+title: Autumn School on Skyrmionics 2020
 categories: [upcoming]
 ---
 

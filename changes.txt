@@ -1,23 +1,11 @@
-1. Changed "Publications" into "Recent events"
+1. Added "Scientific Projects" title to the projects page
 
-2. Updated "Recent events" according to the Christian notes (text)
+2. Reversed the order of "Upcoming events"
 
-3. Added "Upcoming events"
+3. Added the year to the title of both upcoming and recent events
 
-4. in the css style changed page width from 740px to 800 px
+4. Removed "Network Meeting 11. July 2017" post
 
-5. Updated "Projects" according to the GEPRIS website
+5. Renamed "Presentations at the Networking Meeting" into "Network Meeting 2017" and added the date in the post
 
-6. Updated "Members" according to the GEPRIS website
-
-7. Updated "About" according to the Christian notes (written)
-
-8. Moved the post section to the "Recent events", and reversed the order.
-
-9. Introduced categories to the post: "recent" and "upcoming"
-
-10. Removed the links to the posts in their Header (was <h1><a href="{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a></h1> now <h1>{{ event.title }}</h1>)
-
-11. Sorted "Projects" and "Members" in the alphabetical order
-
-12. Changed the css default text alignment to "justify"
+6. Sorted "Steering Committee" in "About" in the aplhabetical order
