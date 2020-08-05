@@ -1,11 +1,9 @@
-1. Added "Scientific Projects" title to the projects page
+1. Added in "Recent events" the post about the corona cancellations.
 
-2. Reversed the order of "Upcoming events"
+2. In the "Upcoming events" updated the Retreat meeting post.
 
-3. Added the year to the title of both upcoming and recent events
+3. Removed "Skymag" post from the "Upcoming events".
 
-4. Removed "Network Meeting 11. July 2017" post
+4. Updated the "Summer School" post in the "Upcoming events" (former Autumn school).
 
-5. Renamed "Presentations at the Networking Meeting" into "Network Meeting 2017" and added the date in the post
-
-6. Sorted "Steering Committee" in "About" in the aplhabetical order
+5. Updated the "International conference" post in the "Upcoming events".
