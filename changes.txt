@@ -1,11 +1,9 @@
 Veetilk - 05.08.2020
 
-1. Added in "Recent events" the post about the corona cancellations.
+1. Added the title to the main page
 
-2. In the "Upcoming events" updated the Retreat meeting post.
+2. Minor updates in the "Recent events"
 
-3. Removed "Skymag" post from the "Upcoming events".
+3. Minor updates in the "Upcoming events"
 
-4. Updated the "Summer School" post in the "Upcoming events" (former Autumn school).
-
-5. Updated the "International conference" post in the "Upcoming events".
+4. Added the title to the 2nd Funding
