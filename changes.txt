@@ -1,3 +1,5 @@
 Veetilk - 02.09.2020
 
 1. Updated the program for the Retreat meeting event
+
+2. Changed "Preliminary program" to "Program"
