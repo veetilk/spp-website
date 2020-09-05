@@ -1,5 +1,7 @@
-Veetilk - 02.09.2020
+Veetilk - 05.09.2020
 
-1. Updated the program for the Retreat meeting event
+1. Moved "Retreat & Networking Meeting 2020" from "Upcoming events" to the "Recent events" category and updated the post
 
-2. Changed "Preliminary program" to "Program"
+2. Updated "Network Meeting 2017" description
+
+3. Updated "2nd Funding period" page
