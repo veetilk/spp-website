@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Retreat & Networking Meeting 2020
-categories: [recent]
+categories: [past]
 ---
 #### 3 & 4 September 2020, Bad Honnef
 

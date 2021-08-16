@@ -1,7 +1,14 @@
-Veetilk - 05.09.2020
+DM - 16.08.2021
 
-1. Moved "Retreat & Networking Meeting 2020" from "Upcoming events" to the "Recent events" category and updated the post
+Check "1-SPP2137 Skyrmionics – Topological Spin Phenomena in Real-Space for Applications.pdf" for Christian comments
 
-2. Updated "Network Meeting 2017" description
-
-3. Updated "2nd Funding period" page
+1. Changed "Recent events" to "Past events"
+2. In all references changed "recent" to "past"
+3. Removed the last line from the Home page "The call for proposals..."
+4. Removed the "2nd Funding Period" from the default layout
+5. Changed title in the "project" page
+6. Updated the upcoming events
+7. Posts "2020-08-04-International-Conference.md" and "2020-08-05-Summer-School.md" were deleted
+8. Update the names of the files in the assets
+9. Moved "Call for proposals 2020" to the past events.
+10. Removed "2nd funding period" page.

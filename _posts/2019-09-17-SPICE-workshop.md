@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Young Researchers Workshop 2019
-categories: [recent]
+categories: [past]
 ---
 
 #### 17 - 19 September 2019, University of Mainz

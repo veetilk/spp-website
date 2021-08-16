@@ -4,7 +4,7 @@ title: Scientific Projects
 permalink: /projects/
 ---
 
-# Scientific Projects
+# Scientific Projects (starting 2018)
 * Manipulation of single skyrmions and skyrmion clusters with electron currents, heat, microwaves, and magnons, [GEPRIS](https://gepris.dfg.de/gepris/projekt/403194850) \\
 [Christian Back](https://gepris.dfg.de/gepris/person/1748798),
 [Georg Woltersdorf](https://gepris.dfg.de/gepris/person/19595874),

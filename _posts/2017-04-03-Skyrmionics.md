@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DFG Establishes Skyrmionics Priority Programme
-categories: [recent]
+categories: [past]
 ---
 
 The Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) is establishing 17 new Priority Programmes for 2018.

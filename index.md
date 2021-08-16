@@ -16,5 +16,3 @@ The research activities focus on three general areas:
 </ol>
 
 The priority program has an interdisciplinary character. It aims to connect the spintronics community with fundamental research on new materials, as well as engineering, mathematics, and chemistry-related aspects. The progress on skyrmionics is gained through mathematical reasoning, micromagnetic and atomistic simulations, computational and theoretical condensed matter physics, cutting edge synthesis techniques, advanced and highly specialized imaging and characterization methods, supplemented with engineering strategies developed for the design of nano-electronic devices.
-
-The call for proposals of the second funding period may be found [here](https://www.dfg.de/foerderung/info_wissenschaft/2020/info_wissenschaft_20_55/).

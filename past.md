@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Recent Activities
-permalink: /recent/
+title: Past Activities
+permalink: /past/
 ---
 
 <div class="events">
   {% for category in site.categories %}
-    {% if category[0] == "recent" %}
+    {% if category[0] == "past" %}
       {% for event in category[1] %}
         <article class="event">
           <h1>{{ event.title }}</h1>
