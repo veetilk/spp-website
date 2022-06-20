@@ -1,3 +1,6 @@
-DM 15.05.2022
+DM 20.06.2022
 
-1. about.md - updated young researcher representatives list
+1. Added photo of young researcher Representatives
+2. Moved Bad Honnef meeting 2021 to the past events and changed the wording
+3. Created new upcoming event - Retreat meeting 2022
+4. added files to "images" and "assets" supporting the changes above
