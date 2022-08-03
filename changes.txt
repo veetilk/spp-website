@@ -1,6 +1,5 @@
-DM 20.06.2022
+DM 03.08.2022
 
-1. Added photo of young researcher Representatives
-2. Moved Bad Honnef meeting 2021 to the past events and changed the wording
-3. Created new upcoming event - Retreat meeting 2022
-4. added files to "images" and "assets" supporting the changes above
+1. Updated the deadline for the retreat meeting
+2. Updated the poster image
+3. Removed the old poster pdf

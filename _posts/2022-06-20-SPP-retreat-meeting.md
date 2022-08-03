@@ -31,7 +31,7 @@ Preliminary schedule: [pdf]({{ site.baseurl }}/assets/2022-06-20-SPP2137-Tentati
 
 There is no registration fee, and full board accommodation will be covered by SPP2137.
 
-To register for the retreat please send the application form by 25th July 2022 to Lisa Seitz: [sekretariat-e51@ph.tum.de](mailto:sekretariat-e51@ph.tum.de)
+To register for the retreat please send the application form by 14th August 2022 to Lisa Seitz: [sekretariat-e51@ph.tum.de](mailto:sekretariat-e51@ph.tum.de)
 
 Application form: [pdf]({{ site.baseurl }}/assets/2022-06-20-SPP2137-Application-Form.pdf), [doc]({{ site.baseurl }}/assets/2022-06-20-SPP2137-Application-Form.docx)
 
