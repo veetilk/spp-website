@@ -1,5 +1,4 @@
-DM 03.08.2022
+DM 27.09.2022
 
-1. Updated the deadline for the retreat meeting
-2. Updated the poster image
-3. Removed the old poster pdf
+1. Moved "2022-06-20-SPP-retreat-meeting" from [upcoming] to [past]
+2. Shortened the post (check with Sebastián if it looks good)
