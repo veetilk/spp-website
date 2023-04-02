@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Upcoming events
-permalink: /upcoming/
+title: Activities
+permalink: /activities/
 ---
 
 <div class="events">

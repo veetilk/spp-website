@@ -1,4 +1,14 @@
-DM 27.09.2022
+DM 02.04.2023
 
-1. Moved "2022-06-20-SPP-retreat-meeting" from [upcoming] to [past]
-2. Shortened the post (check with Sebastián if it looks good)
+1. Rename the section name "Upcoming events" to "Activities". 
+
+2. Change all the internal labeling from "upcoming" to "activities": 
+    - upcoming.md
+    - in  .\_layouts\default.html
+
+3. Updated the website link in .\_config.yml
+
+4. Updated the title in .\projects.md
+    - Sort the projects list in the alphabetic order by name, same way as it is done on the DFG website
+    - For some existing projects changed their name or list of applicants
+    - Added missing projects
