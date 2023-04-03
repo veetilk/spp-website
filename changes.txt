@@ -1,14 +1,11 @@
-DM 02.04.2023
+DM 03.04.2023
 
-1. Rename the section name "Upcoming events" to "Activities". 
+1. In the "About" section, update the affiliation for Karin Everschor
 
-2. Change all the internal labeling from "upcoming" to "activities": 
-    - upcoming.md
-    - in  .\_layouts\default.html
+2. Updated the list of members
+- Added the missing members based the mentioned in "Projects"
+- Removed those missing in "Projects":
 
-3. Updated the website link in .\_config.yml
-
-4. Updated the title in .\projects.md
-    - Sort the projects list in the alphabetic order by name, same way as it is done on the DFG website
-    - For some existing projects changed their name or list of applicants
-    - Added missing projects
+* [Axel Lubk](https://gepris.dfg.de/gepris/person/389873168), Institut für Festkörper- und Werkstoffforschung Dresden
+* [Georg Woltersdorf](https://gepris.dfg.de/gepris/person/19595874), Martin-Luther-Universität Halle-Wittenberg
+* [Josef Zweck](https://gepris.dfg.de/gepris/person/1342180), Universität Regensburg
