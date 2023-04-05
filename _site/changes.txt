@@ -1,11 +1,9 @@
-DM 03.04.2023
+DM 05.04.2023
 
-1. In the "About" section, update the affiliation for Karin Everschor
+1. Changed "Equal opportunities" from a post into section, thereby increasing the number of sections
+- that includes changing "default.html" layout
 
-2. Updated the list of members
-- Added the missing members based the mentioned in "Projects"
-- Removed those missing in "Projects":
+2. Removed dublicating title from "Mobility" post
 
-* [Axel Lubk](https://gepris.dfg.de/gepris/person/389873168), Institut für Festkörper- und Werkstoffforschung Dresden
-* [Georg Woltersdorf](https://gepris.dfg.de/gepris/person/19595874), Martin-Luther-Universität Halle-Wittenberg
-* [Josef Zweck](https://gepris.dfg.de/gepris/person/1342180), Universität Regensburg
+3. Change the website general style (style.css) to make it wider
+- From 800 px to 810 px

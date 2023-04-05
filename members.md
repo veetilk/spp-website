@@ -48,6 +48,8 @@ permalink: /members/
 
 * [Samir Lounis](https://gepris.dfg.de/gepris/person/143873165), Forschungszentrum Jülich GmbH
 
+* [Axel Lubk](https://gepris.dfg.de/gepris/person/389873168), Institut für Festkörper- und Werkstoffforschung Dresden
+
 * [Jeffrey McCord](https://gepris.dfg.de/gepris/person/1516885), Christian-Albrechts-Universität zu Kiel
 
 * [Yuriy Mokrousov](https://gepris.dfg.de/gepris/person/25350911), Johannes Gutenberg-Universität Mainz
@@ -82,6 +84,10 @@ permalink: /members/
 
 * [Mathias Weiler](https://gepris.dfg.de/gepris/person/232533553), Technische Universität Kaiserslautern
 
+* [Georg Woltersdorf](https://gepris.dfg.de/gepris/person/19595874), Martin-Luther-Universität Halle-Wittenberg
+
 * [Wulf Wulfhekel](https://gepris.dfg.de/gepris/person/1748747), Karlsruher Institut für Technologie
 
 * [Ricardo Zarzuela](https://gepris.dfg.de/gepris/person/451766736), Johannes Gutenberg-Universität Mainz
+
+* [Josef Zweck](https://gepris.dfg.de/gepris/person/1342180), Universität Regensburg
