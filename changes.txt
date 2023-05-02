@@ -1,3 +1,6 @@
-DM 05.04.2023 v2
+DM 02.05.2023
 
-1. Changed the deadline date for Mobility grant application. Set the font to bold to the dates.
+1. Added a new post for the Retreat meeting 2023
+
+2. Changed the order the activities appear in the list, line 10:
+{% for event in category[1] reversed %} => {% for event in category[1] %}

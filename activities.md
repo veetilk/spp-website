@@ -7,7 +7,7 @@ permalink: /activities/
 <div class="events">
   {% for category in site.categories %}
     {% if category[0] == "activities" %}
-      {% for event in category[1] reversed %}
+      {% for event in category[1] %}
         <article class="event">
           <h1>{{ event.title }}</h1>
           {% if event.content contains site.excerpt_separator %}
