@@ -1,3 +1,5 @@
-DM 03.05.2023
+DM 31.07.2023
 
-1. Updated the files for SPP  retreat meeting registration
+1. Updated the files for SPP  retreat meeting registration and the file names
+
+2. Updated the link in the retreat meeting post

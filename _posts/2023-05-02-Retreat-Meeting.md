@@ -14,4 +14,4 @@ The retreat meeting will be organized by Kirsten von Bergmann and Stefan Heinze.
 
 Registrations are requested by **15 August 2023** at the latest. To register for the retreat meeting please send the registration form to Christian Pfleiderer: [christian.pfleiderer@ph.tum.de](mailto:christian.pfleiderer@ph.tum.de)
 
-Registration form: [pdf]({{ site.baseurl }}/assets/2023-05-02-SPP2137-Registration-retreat.pdf), [doc]({{ site.baseurl }}/assets/2023-05-02-SPP2137-Registration-retreat.docx).
+Registration form: [pdf]({{ site.baseurl }}/assets/2023-07-30-SPP2137-Registration-retreat.pdf), [doc]({{ site.baseurl }}/assets/2023-07-30-SPP2137-Registration-retreat.docx).
