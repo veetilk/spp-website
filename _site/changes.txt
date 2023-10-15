@@ -1,5 +1,11 @@
-DM 31.07.2023
+DM 15.10.2023
 
-1. Updated the files for SPP  retreat meeting registration and the file names
+1. Changed the post "2023-05-02-Retreat-Meeting" from active to past events. Changed the wording according to Christian's request.
+The registration forms for the event have been removed, and the final program "2023-07-30-SPP2137-Registration-retreat-program.pdf" added.
 
-2. Updated the link in the retreat meeting post
+3. Updated the text in the "2022-06-20-SPP-retreat-meeting" post.
+
+4. Updated the text in the "2021-08-15-SPP-retreat-meeting" post. 
+Removed the registration form for the event, and added the final program "2021-08-15-SPP2137-retreat-Program.pdf".
+
+5. Added new post "2023-10-15-Workshop.md"

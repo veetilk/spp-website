@@ -8,7 +8,7 @@ categories: [past]
 
 A retreat aimed at young researchers of the priority program SPP2137 took place from 12 - 15 September 2022 at Kurhaus Trifels in Annweiler am Trifels.
 
-The retreat is supported by the DFG priority program on Skyrmionics. It aims at three objectives:
+The retreat was supported by the DFG priority program on Skyrmionics. It pursued three objectives:
 
 1. building a network among young researchers interested in Skyrmionics, namely students, PhD candidates, postdocs, as well as junior group leaders,
 2. broadening the knowledge of the current status and the future of research on skyrmionics, and
