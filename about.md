@@ -15,18 +15,22 @@ permalink: /about/
 <br>
 
 ### Young Researchers' Representatives
-* [Maria Azhar](https://www.tfp.kit.edu/english/1272_1331.php), Karlsruhe Institute of Technology
+* [Aisha Aqeel](https://www.ph.tum.de/about/people/vcard/3B40DAE77B1ACCCB/?language=en/), TU Munich
 
-<img src="{{ site.baseurl }}/images/photo_Maria_Azhar.png" style="width: 230px;"/>
+<img src="{{ site.baseurl }}/images/photo_Aisha_Aqeel.jpg" style="width: 230px;"/>
 
-* [Sopheak Sorn](https://www.tfp.kit.edu/1272_1455.php), Karlsruhe Institute of Technology
+* [Alessandro Pignedoli](https://www.uni-due.de/physik/twist/alessandro_pignedoli.php), University of Duisburg-Essen Campus Duisburg
 
-<img src="{{ site.baseurl }}/images/photo_Sopheak_Sorn.png" style="width: 230px;"/>
+<img src="{{ site.baseurl }}/images/photo_Alessandro_Pignedoli.jpeg" style="width: 230px;"/>
 
-* [Jonathan Kipp](https://www.fz-juelich.de/SharedDocs/Personen/PGI/PGI-1/EN/Kipp_J.html?nn=664886), Forschungszentrum Juelich
+* [Jan Christian Masell](https://sites.google.com/view/janmasell/main), Karlsruhe Institute of Technology & RIKEN Center for Emergent Matter Science
 
-<img src="{{ site.baseurl }}/images/photo_Jonathan_Kipp.png" style="width: 230px;"/>
+<img src="{{ site.baseurl }}/images/photo_Jan_Masell.jpg" style="width: 230px;"/>
 
-* [Sebastián A. Díaz](https://www.uni-due.de/physik/twist/sebastian_diaz), University of Duisburg-Essen
+* [Mona Bhukta](https://www.klaeui-lab.physik.uni-mainz.de/team/), Johannes Gutenberg University Mainz
 
-<img src="{{ site.baseurl }}/images/photo_Sebastian_Diaz.png" style="width: 230px;"/>
+<img src="{{ site.baseurl }}/images/photo_Mona_Bhukta.png" style="width: 230px;"/>
+
+* [Venkata Krishna Bharadwaj](https://www.sinova-group.physik.uni-mainz.de/team/venkata-krishna-bharadwaj/), Johannes Gutenberg University Mainz
+
+<img src="{{ site.baseurl }}/images/photo_Venkata_Krishna.jpg" style="width: 230px;"/>
