@@ -14,7 +14,7 @@ The retreat was supported by the DFG priority program on Skyrmionics. It pursued
 2. broadening the knowledge of the current status and the future of research on skyrmionics, and
 3. promoting individual communication and research skills.
 
-The meeting featured scientific tutorials, contributed talks, poster sessions, and personal skills training. 
+The meeting featured scientific tutorials, contributed talks, poster sessions, and personal skills training. It was organized by Maria Azhar, Sebastián Díaz, Jonathan Kipp, and Sopheak Sorn.
 
 Final schedule: [pdf]({{ site.baseurl }}/assets/2022-06-20-SPP2137-Final-Program.pdf)
 
