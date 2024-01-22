@@ -23,11 +23,11 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/images/photo_Alessandro_Pignedoli.jpeg" style="width: 230px;"/>
 
-* [Jan Christian Masell](https://sites.google.com/view/janmasell/main), Karlsruhe Institute of Technology & RIKEN Center for Emergent Matter Science
+* [Jan Masell](https://sites.google.com/view/janmasell/main), Karlsruhe Institute of Technology & RIKEN Center for Emergent Matter Science
 
 <img src="{{ site.baseurl }}/images/photo_Jan_Masell.jpg" style="width: 230px;"/>
 
-* [Mona Bhukta](https://www.klaeui-lab.physik.uni-mainz.de/team/), Johannes Gutenberg University Mainz
+* [Mona Bhukta](https://www.klaeui-lab.physik.uni-mainz.de/people/), Johannes Gutenberg University Mainz
 
 <img src="{{ site.baseurl }}/images/photo_Mona_Bhukta.png" style="width: 230px;"/>
 

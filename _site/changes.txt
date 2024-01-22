@@ -1,3 +1,9 @@
-DM  19.10.2023
+DM  22.01.2024
 
-1. By the request of Maria Azhar, added the credits for Young Researchers Retreat 2022.
+1. Removed the middle name from Jan Masell in the about section.
+
+2. Added new retreat meeting post 2024-01-22-SPP-retreat-meeting
+
+3. Moved 2023-10-15-Workshop to past events and edited the narrative
+
+4. Deactivate "2023-04-03-mobility"
