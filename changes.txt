@@ -1,9 +1,4 @@
-DM  22.01.2024
+DM  23.02.2024
 
-1. Removed the middle name from Jan Masell in the about section.
-
-2. Added new retreat meeting post 2024-01-22-SPP-retreat-meeting
-
-3. Moved 2023-10-15-Workshop to past events and edited the narrative
-
-4. Deactivate "2023-04-03-mobility"
+1. Updated the post "2024-01-22-SPP-retreat-meeting"
+2. Added the application form to the assets
