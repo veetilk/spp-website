@@ -33,7 +33,7 @@ Dr. Vincent Cros (Laboratoire Albert Fert)
 
 TT. - Prof.  Dr.-Ing. Yolita Eggeler (KIT, Karlsruhe)
 
-Dr. Christina Psaroudaki 
+Dr. Christina Psaroudaki (LPENS, Paris)
 
 ### Young researcher speakers
 Dr. Denis Mettus (TU Munich)
