@@ -20,7 +20,7 @@ The retreat will start on April 21 with dinner at 6 pm and will end on April 25 
 The retreat will take place in the seminar rooms of [*das flax allgäu*](https://www.dasflaxhotels.com/index.php/de/), Schlosserstr. 4, 87463 Dietmannsried. Participants are requested to arrange travel themselves. Onsite accommodation and meals will be provided by the SPP.
  
 ### How to apply: 
-To register for the retreat, please send the application form ([example]({{ site.baseurl }}/assets/2024-01-22-SPP2137-Application-Form.pdf)) by **01.03.2024** to [Alessandro Pignedoli](mailto:alessandro.pignedoli@uni-due.de). All participants are requested to contribute a poster. In addition to your poster, you can apply for a contributed talk (15 ~ 20 mins).
+To register for the retreat, please send the application form ([example]({{ site.baseurl }}/assets/2024-01-22-SPP2137-Application-Form.pdf)) by **15.03.2024** to [Alessandro Pignedoli](mailto:alessandro.pignedoli@uni-due.de). All participants are requested to contribute a poster. In addition to your poster, you can apply for a contributed talk (15 ~ 20 mins).
 
 ### Invited speakers
 Prof. Istvan Kezsmarki (Uni. Augsburg)
