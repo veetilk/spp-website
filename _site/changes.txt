@@ -1,3 +1,12 @@
-DM  05.03.2024
+DM  08.03.2024
 
-1. Changed the deadline date to 15 March
+1. Update the SPP retreat meeting post according to the new directive described in the doc.
+
+2. Update the application form document
+
+3. Added a script to the header of default.html which should ask to reload the page whenever it is loaded for the first time. This should ensure the new version of the page is loaded.
+
+4. Changed the name of the style.scss file to style_2.scss (and changed the line in default.html) which should force the first reload, letting the web browser to load the page with the reloading script (zero-entry?).
+UPDATE => renaming style.scss did not work
+
+5. Change the address of the page ./activities/ to ./activity/ and try if that forces the reload.

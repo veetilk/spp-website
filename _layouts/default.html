@@ -1,6 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <!-- 2024.03.08 added a script for auto page reload -->  
+    <script>
+      window.onload = function() {
+          if (!sessionStorage.getItem('reloaded')) {
+              sessionStorage.setItem('reloaded', 'true');
+              location.reload();
+          } else {
+              sessionStorage.removeItem('reloaded');
+          }
+      }
+    </script>  
+    <!-- -->  
+        
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
@@ -32,7 +45,7 @@
             <a href="{{ site.baseurl }}/" {% if current.size == 0 %}class='active'{% endif %}>Home</a>
             <a href="{{ site.baseurl }}/projects" {% if current[1] == 'projects' %}class='active'{% endif %}>Projects</a>
             <a href="{{ site.baseurl }}/members" {% if current[1] == 'members' %}class='active'{% endif %}>Members</a>
-            <a href="{{ site.baseurl }}/activities" {% if current[1] == 'activities' %}class='active'{% endif %}>Activities</a>
+            <a href="{{ site.baseurl }}/activity" {% if current[1] == 'activities' %}class='active'{% endif %}>Activities</a>
             <a href="{{ site.baseurl }}/past" {% if current[1] == 'past' %} class='active'{% endif %}>Past events</a>
             <a href="{{ site.baseurl }}/equality" {% if current[1] == 'equality' %} class='active'{% endif %}>Equal opportunities</a>
             <a href="{{ site.baseurl }}/about" {% if current[1] == 'about' %} class='active'{% endif %}>About</a>

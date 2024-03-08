@@ -1,6 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <!-- 2024.03.08 added a script for auto page reload -->  
+    <script>
+      window.onload = function() {
+          if (!sessionStorage.getItem('reloaded')) {
+              sessionStorage.setItem('reloaded', 'true');
+              location.reload();
+          } else {
+              sessionStorage.removeItem('reloaded');
+          }
+      }
+    </script>  
+    <!-- -->  
+        
     <title>Young researcher mobility grants – SPP2137 Skyrmionics – Topological Spin Phenomena in Real-Space for Applications</title>
 
         <meta charset="utf-8" />
@@ -76,7 +89,7 @@ The allocation of funds will be on a “first come – first serve” basis unti
             <a href="/" >Home</a>
             <a href="/projects" >Projects</a>
             <a href="/members" >Members</a>
-            <a href="/activities" >Activities</a>
+            <a href="/activity" >Activities</a>
             <a href="/past" >Past events</a>
             <a href="/equality" >Equal opportunities</a>
             <a href="/about" >About</a>
