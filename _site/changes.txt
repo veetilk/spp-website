@@ -10,3 +10,21 @@ DM  08.03.2024
 UPDATE => renaming style.scss did not work
 
 5. Change the address of the page ./activities/ to ./activity/ and try if that forces the reload.
+
+DM 09.03.2024
+
+1. Because in the advertising the address was given as /activities/, added a page for that.
+
+2. Made a script with forced redirection to /activity/ in /activities/
+
+<body>
+    <!-- Other HTML content -->
+    
+    <script>
+        window.onload = function() {
+            if (window.location.pathname === "/activities/") {
+                window.location.href = "/activity/";
+            }
+        };
+    </script>
+</body>

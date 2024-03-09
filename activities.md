@@ -1,27 +1,17 @@
 ---
 layout: page
 title: Activities
-permalink: /activity/
+permalink: /activities/
 ---
 
-<div class="events">
-  {% for category in site.categories %}
-    {% if category[0] == "activities" %}
-      {% for event in category[1] %}
-        <article class="event">
-          <h1>{{ event.title }}</h1>
-          {% if event.content contains site.excerpt_separator %}
-            <div class="entry">
-              {{ event.excerpt }}
-            </div>
-            <a href="{{ site.baseurl }}{{ event.url }}" class="read-more">Read More</a>
-          {% else %}
-            <div class="entry">
-              {{ event.content }}
-            </div>
-          {% endif %}
-        </article>
-      {% endfor %}
-    {% endif %}
-  {% endfor %}
-</div>
+<body>
+    <!-- Other HTML content -->
+    
+    <script>
+        window.onload = function() {
+            if (window.location.pathname === "/activities/") {
+                window.location.href = "/activity/";
+            }
+        };
+    </script>
+</body>
