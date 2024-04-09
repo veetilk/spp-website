@@ -1,3 +1,5 @@
 DM  09.05.2024
 
 1. Updated invited speakers for the SPP meeting
+
+2. Updated the styling of the inviter speaker list

@@ -25,17 +25,13 @@ All participants are requested to contribute a poster. In addition, you can appl
 
 ### Invited speakers
 
-Yolita Eggeler, *Karlsruhe Institute of Technology (KIT)*
-
-István Kézsmárki, *University of Augsburg*
-
-Ulrich Nowak, *University of Konstanz*
-
-Christina Psaroudaki, *Laboratoire de Physique de l'Ecole Normale Supérieure (LPENS)*
-
-Nicolas Reyren, *Laboratoire Albert Fert, CNRS, Thales, Université Paris-Sud*
-
-Ankit Sharma, *Attocube Systems AG*
+|:---|:---|
+| Yolita Eggeler | Karlsruhe Institute of Technology (KIT) |
+| István Kézsmárki | University of Augsburg |
+| Ulrich Nowak | University of Konstanz |
+| Christina Psaroudaki &nbsp; &nbsp; &nbsp; &nbsp; | Laboratoire de Physique de l'Ecole Normale Supérieure (LPENS) |
+| Nicolas Reyren | Laboratoire Albert Fert, CNRS, Thales, Université Paris-Sud |
+| Ankit Sharma | Attocube Systems AG |
 
 ### Organizers
 [Aisha Aqeel](https://www.ph.tum.de/about/people/vcard/3B40DAE77B1ACCCB/?language=en/), [Alessandro Pignedoli](https://www.uni-due.de/physik/twist/alessandro_pignedoli.php), [Jan Masell](https://sites.google.com/view/janmasell/main), [Mona Bhukta](https://www.klaeui-lab.physik.uni-mainz.de/people/), and [Venkata Krishna Bharadwaj](https://www.sinova-group.physik.uni-mainz.de/team/venkata-krishna-bharadwaj/)
