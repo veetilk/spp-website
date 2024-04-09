@@ -1,7 +1,3 @@
-DM  17.03.2024
+DM  09.05.2024
 
-1. Add new post regarding SPP International conference
-
-2. Changed the posting date for the SPP retreat meeting so that it appears on top above the SPP interntaitonal conference.
-
-3. Added the new appliction form for the spp international conference
+1. Updated invited speakers for the SPP meeting

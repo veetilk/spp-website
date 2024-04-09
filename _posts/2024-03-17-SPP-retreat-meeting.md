@@ -24,7 +24,6 @@ To register for the retreat, please send the application form ([link]({{ site.ba
 All participants are requested to contribute a poster. In addition, you can apply for a contributed talk (20+5 mins).
 
 ### Invited speakers
-Vincent Cros, *Unité Mixte de Physique CNRS/Thales*
 
 Yolita Eggeler, *Karlsruhe Institute of Technology (KIT)*
 
@@ -33,6 +32,8 @@ István Kézsmárki, *University of Augsburg*
 Ulrich Nowak, *University of Konstanz*
 
 Christina Psaroudaki, *Laboratoire de Physique de l'Ecole Normale Supérieure (LPENS)*
+
+Nicolas Reyren, *Laboratoire Albert Fert, CNRS, Thales, Université Paris-Sud*
 
 Ankit Sharma, *Attocube Systems AG*
 
