@@ -13,7 +13,7 @@ The retreat meeting is aimed at young researchers of the priority program SPP213
 <li> promoting individual communication and research skills. </li>
 </ol>
 
-The retreat will start on April 21 with dinner at 6 pm and will end on April 25 after lunch at around 1:30 pm. The schedule will be uploaded shortly.
+The retreat will start on April 21 with dinner at 6 pm and will end on April 25 after lunch at around 1:30 pm. The program of the retreat is available [here]({{ site.baseurl }}/assets/2024-04-10-SPP2137-retreat-program.pdf).
 
 ### Location and travel  
 The retreat will take place in the seminar rooms of *das flax allgäu*, Schlosserstr. 4, 87463 Dietmannsried ([https://www.dasflaxhotels.com/index.php](https://www.dasflaxhotels.com/index.php)). Onsite accommodation and meals will be covered by the SPP. Participants are requested to arrange travel themselves. Limited travel funds are available upon request. 
