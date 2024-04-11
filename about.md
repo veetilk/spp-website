@@ -15,7 +15,7 @@ permalink: /about/
 <br>
 
 ### Young Researchers' Representatives
-* [Aisha Aqeel](https://www.ph.tum.de/about/people/vcard/3B40DAE77B1ACCCB/?language=en/), TU Munich
+* [Aisha Aqeel](https://www.uni-augsburg.de/de/campusleben/neuigkeiten/2024/02/05/emmy-noether-nachwuchsgruppe-fur-dr-aisha-aqeel/), Universität Augsburg
 
 <img src="{{ site.baseurl }}/images/photo_Aisha_Aqeel.jpg" style="width: 230px;"/>
 

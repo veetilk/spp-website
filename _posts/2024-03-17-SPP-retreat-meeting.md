@@ -34,4 +34,4 @@ All participants are requested to contribute a poster. In addition, you can appl
 | Ankit Sharma | Attocube Systems AG |
 
 ### Organizers
-[Aisha Aqeel](https://www.ph.tum.de/about/people/vcard/3B40DAE77B1ACCCB/?language=en/), [Alessandro Pignedoli](https://www.uni-due.de/physik/twist/alessandro_pignedoli.php), [Jan Masell](https://sites.google.com/view/janmasell/main), [Mona Bhukta](https://www.klaeui-lab.physik.uni-mainz.de/people/), and [Venkata Krishna Bharadwaj](https://www.sinova-group.physik.uni-mainz.de/team/venkata-krishna-bharadwaj/)
+[Aisha Aqeel](https://www.uni-augsburg.de/de/campusleben/neuigkeiten/2024/02/05/emmy-noether-nachwuchsgruppe-fur-dr-aisha-aqeel/), [Alessandro Pignedoli](https://www.uni-due.de/physik/twist/alessandro_pignedoli.php), [Jan Masell](https://sites.google.com/view/janmasell/main), [Mona Bhukta](https://www.klaeui-lab.physik.uni-mainz.de/people/), and [Venkata Krishna Bharadwaj](https://www.sinova-group.physik.uni-mainz.de/team/venkata-krishna-bharadwaj/)
